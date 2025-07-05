@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lim Jia An</h1>
-<h3 align="center">🎓 I'm a 3rd-year Computer Science student specializing in **Computer Network & Security** at **Universiti Teknologi Malaysia (UTM)**. 🎓 I'm also a proud **PETRONAS Education Sponsorship Programme (PESP) Scholar**.</h3>
+<h3 align="center">🎓 I'm a 3rd-year Computer Science student specializing in **Computer Network & Security** at **Universiti Teknologi Malaysia (UTM)**.</h3>
 
-- 📡 I’m **CCNA certified** and skilled in **📡 I’m **CCNA certified** and skilled in: - **Cisco Packet Tracer** - **OpenMPI**, **Linux**, **TCP/IP** - Web Development (HTML/CSS, PHP, React Native)**
+- 📡 I’m **CCNA certified** and skilled in **- **Cisco Packet Tracer** - **OpenMPI**, **Linux**, **TCP/IP** - Web Development (HTML/CSS, PHP, React Native)**
 
 - 🌐 I’m passionate about **- Network & System Security - Linux and Open Source Tools - Programming in C++, Python, and Java - Cloud, DevOps, and Emerging Tech**
 
